@@ -1,0 +1,1 @@
+An open source toolkit for automatically generating labeling functions by language model.
